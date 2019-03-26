@@ -1,5 +1,5 @@
 # STL-to-Point-Cloud-Dataset-Generator-
-There are a number of freely available datasets of STL files (for example the Thingi10k https://ten-thousand-models.appspot.com/). These are datasets are useful for creating training datasets for machine vision experimentation. It is intended that the notebook provided can be used to generate a training dataset from a folder of stl files
+There are a number of freely available datasets of STL files (for example the Thingi10k https://ten-thousand-models.appspot.com/). These can be useful for creating training datasets for machine vision experimentation. It is intended that the notebook provided can be used to generate such a training dataset from a folder of stl files
 
 Specifically, the notebook contains the code that does the following
 
